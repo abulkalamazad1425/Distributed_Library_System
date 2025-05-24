@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+asyncpg
+uvicorn
+alembic
+python-dotenv
+pydantic
+pydantic[email]
+psycopg2
+
