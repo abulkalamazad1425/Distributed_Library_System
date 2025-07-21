@@ -1,0 +1,6 @@
+./book-db.env
+./loan-db.env
+./user-db.env
+**/.env
+*.env
+**/*.env
